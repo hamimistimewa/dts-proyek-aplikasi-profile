@@ -1,6 +1,5 @@
 # Aplikasi Profile
-# DTS GCP Associate Engineer
-# Dicoding Indonesia
+# DTS GCP Associate Engineer x Dicoding Indonesia
 
 Proyek pertama deploy aplikasi profile pada Google Apps Engine
 
